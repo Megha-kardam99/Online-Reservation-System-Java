@@ -1,15 +1,15 @@
 # Online Reservation System — Java Console Application
 
-**Developer:** Megha Kardam
-**GitHub:** github.com/Megha-kardam99
-**Language:** Java 17
-**Type:** Personal Project
+**Developer:** Megha Kardam  
+**GitHub:** [Megha-kardam99](https://github.com/Megha-kardam99)  
+**Language:** Java 17  
+**Type:** Personal Project  
 
 ---
 
 ## About
 
-A console-based train reservation system built in Core Java.
+A console-based train reservation system built in Core Java.  
 Simulates core IRCTC features — login, booking, PNR generation, cancellation, admin panel.
 
 ---
